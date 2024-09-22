@@ -1,0 +1,90 @@
+.containers{
+ 
+
+    border: 2px solid black;
+
+    padding: 10px;
+
+    margin-top: 50px;
+
+    display: flex;
+
+    height: 500px;
+
+    width: 300px;
+
+    flex-wrap: wrap;
+
+    background-color: #a89f9f;
+
+   
+
+    border-radius: 10px;
+
+    justify-content: center;
+
+    align-items: center;
+
+    column-gap: 10px;
+
+    grid-row: 5px;
+
+}
+
+.but{
+
+    background-color: rgb(154, 89, 89);
+
+    color: black;
+
+    height: 50px;
+    width: 80px;
+}
+
+
+.ip{
+
+
+    background-color: white;
+
+    width: 280px;
+
+    height: 50px;
+    border-radius: 8px;
+
+    margin-left: 8px;
+
+    color: black;
+}
+
+
+.home{
+
+
+    border: 2px solid black;
+
+    padding: 15px;
+
+    border-radius: 10px;
+
+    background-color: #a89f9f;
+
+  
+
+   
+    
+}
+
+.outer{
+
+
+    height: 100Vh;
+    width: 100vw;
+
+
+    background-color: rgb(120, 191, 220);
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
